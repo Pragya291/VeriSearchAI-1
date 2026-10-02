@@ -1,0 +1,9 @@
+{
+  "name": "verisearch-ai-workspace",
+  "private": true,
+  "scripts": {
+    "dev": "npm --prefix VeriSearchAI/frontend run dev",
+    "build": "npm --prefix VeriSearchAI/frontend run build",
+    "lint": "npm --prefix VeriSearchAI/frontend run lint"
+  }
+}
